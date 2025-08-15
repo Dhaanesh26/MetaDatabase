@@ -14,7 +14,7 @@
  *     ✔️ Constraints: NOT NULL, UNIQUE, CHECK         
  *     ✔️ Real-world queries for business insights     
  *                                                    
- * Author: Dhaanesh 🛠️                  
+ * Author: Dhaanesh 🛠️                   
  * Certification Track: Meta Database Engineer    
  *                                                    *
  *******************************************************/
